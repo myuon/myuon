@@ -5,6 +5,7 @@
 ## 基本情報
 
 |key|value|
+|--|--|
 |Name|myuon|
 |Blog|[The curse of λ](https://myuon.github.io)|
 |Twitter|[@myuon_myon](https://twitter.com/myuon_myon)|
